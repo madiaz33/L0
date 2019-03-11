@@ -1,0 +1,8 @@
+cd Desktop/
+git clone https://github.com/madiaz33/L0.git
+cd L0/
+git add L0Maca.txt
+ git commit -m "Lab0"
+git push
+git pull
+doskey/history
